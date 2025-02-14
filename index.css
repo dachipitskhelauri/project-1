@@ -1,0 +1,20 @@
+div {
+    height: 100px;
+    width: 300px;
+    background-color: red;
+    margin: 10px;
+}
+
+.pirveliyuti {
+    background-color: blue;
+}
+
+.mwvaneyuti{
+    background-color: green;
+}
+
+.shvili {
+    background-color: yellow;
+    width: 20px;
+    height: 30px;
+}
